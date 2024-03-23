@@ -14,4 +14,3 @@ while((soma*multi) < 500){
 
 
 console.log(soma)
-
